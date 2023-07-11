@@ -12,7 +12,7 @@ function Projects() {
           <div className="mt-3">
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Workshop Management using Django</h4>
+                <h4 className="font-bold bg-text">Workshop Management using Django</h4>
                 <p className='py-3'>
                   <a target="_blank" rel="noopener noreferrer" className="inline-block px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg" href="https://github.com/rahulktd/Workshop-management-">
                     Github Link
@@ -28,7 +28,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Job Board</h4>
+                <h4 className="font-bold bg-text">Job Board</h4>
                 <p className='py-3'>
                   <a target="_blank" className="inline-block px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg" rel="noopener noreferrer" href="https://github.com/rahulktd/Job-Board">
                     Github Link
@@ -44,7 +44,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Social Media using Django</h4>
+                <h4 className="font-bold bg-text">Social Media using Django</h4>
                 
                 <p className='py-3'>
                   <a 
@@ -65,8 +65,8 @@ function Projects() {
             </div>
 
             <div className="py-4">
-              <div className="font-semibold">
-                <h4 >E-Commerce App using Django</h4>
+              <div>
+                <h4 className="font-bold bg-text" >E-Commerce App using Django</h4>
                 
                 <p className='py-3'>
                   <a
@@ -88,7 +88,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Real-time Chat App using Django</h4>
+                <h4 className="font-bold bg-text">Real-time Chat App using Django</h4>
           
                 <p className='py-3'>
                   <a
@@ -110,7 +110,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">E-Commerce website using React</h4>
+                <h4 className="font-bold bg-text">E-Commerce website using React</h4>
              
                 <p className='py-3'>
                   <a
@@ -123,7 +123,7 @@ function Projects() {
                   </a>
                 </p>
               </div>
-              <ul className="list-disc">
+              <ul className='list-disc'>
                 <li>E-Commerce website using React is a full-fledged online shopping platform developed with React.</li>
                 <li>It offers a modern and intuitive user interface, along with features like product browsing, filtering, and secure checkout.</li>
                 <li>With its responsive design and optimized performance, this website provides an engaging and efficient online shopping experience.</li>
@@ -132,7 +132,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Restaurant website using Material UI-React Project</h4>
+                <h4 className="font-bold bg-text">Restaurant website using Material UI-React Project</h4>
              
                 <p className='py-3'>
                   <a
@@ -154,7 +154,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Todo App using Django</h4>
+                <h4 className="font-bold bg-text">Todo App using Django</h4>
            
                 <p className='py-3'>
                   <a
@@ -176,7 +176,7 @@ function Projects() {
 
             <div className="py-4">
               <div className="desc">
-                <h4 className="font-semibold">Todo App using Flask</h4>
+                <h4 className="font-bold bg-text">Todo App using Flask</h4>
    
                 <p className='py-3'>
                   <a
